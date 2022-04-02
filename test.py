@@ -13,7 +13,6 @@ def dzielenie(a,b):
 
 def odejmij(a,b):
 	return a-b
-print ("Goodbye World")
 
 def dodaj(a,b):
 	wynik = float(a) + float(b)
@@ -24,3 +23,4 @@ druga = input()
 
 print (dodaj(pierwsza, druga))
 
+print("Goodbye world!")
