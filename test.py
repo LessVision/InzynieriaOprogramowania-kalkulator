@@ -4,7 +4,14 @@ def goodbye(name):
 
 def odejmij(a,b):
 	return a-b
-print ("Goodbye World")
+
+def dziel(a,b):
+	wynik = float(a) / float(b)
+	return wynik
+
+def mnozenie(a,b):
+	wynik = float(a) * float(b)
+	return wynik
 
 def dodaj(a,b):
 	wynik = float(a) + float(b)
@@ -15,3 +22,4 @@ druga = input()
 
 print (dodaj(pierwsza, druga))
 
+print ("Goodbye world")
