@@ -9,6 +9,7 @@ def odejmij(a,b):
 
 print ("Goodbye World")
 
+
 def dodaj(a,b):
 	wynik = float(a) + float(b)
 	return wynik
@@ -18,3 +19,4 @@ druga = input()
 
 print (dodaj(pierwsza, druga))
 
+print("Goodbye world!")
