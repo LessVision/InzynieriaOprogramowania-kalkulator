@@ -3,12 +3,8 @@
 def goodbye(name):
 	return "Goodbye + str(name)
 
-def mnozenie(a,b):
-	wynik = float(a) * float(b)
-	return wynik
-
-def dzielenie(a,b):
-	wynik = float(a) * float(b)
+def odejmij(a,b):
+	wynik = float(a) - float(b)
 	return wynik
 
 def odejmij(a,b):
