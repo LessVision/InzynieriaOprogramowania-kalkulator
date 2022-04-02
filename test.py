@@ -1,4 +1,5 @@
 # To będzie plik na którym będziemy pracowali z repo
+# Jestem z niej bardzo zadowolony
 def goodbye(name):
 	return "Goodbye + str(name)
 
